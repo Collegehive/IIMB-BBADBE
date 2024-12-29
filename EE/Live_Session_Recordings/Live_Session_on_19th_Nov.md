@@ -1,1 +1,0 @@
-Live Session on 19th Nov content.
