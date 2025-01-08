@@ -460,6 +460,8 @@ Here's how an idea can be tested using an Empathy Map, SCAMPER, and an Ishikawa 
         *   **Saying:** What are their verbal and nonverbal communication?
     *   **Test assumptions:** Validate or challenge initial assumptions about the target audience's needs and desires.
 
+![image](https://github.com/user-attachments/assets/0fa3e0eb-a02a-4cd4-a4bb-bfc77090a6e3)
+
 
 **2. SCAMPER**
 
@@ -468,6 +470,9 @@ Here's how an idea can be tested using an Empathy Map, SCAMPER, and an Ishikawa 
     *   **Apply SCAMPER:** Use the SCAMPER checklist (Substitute, Combine, Adapt, Modify, put to other uses, Eliminate, Reverse) to brainstorm modifications to the original idea.
     *   **Prototype:** Create low-fidelity prototypes of the modified ideas.
     *   **Test with users:** Gather feedback from potential users on the modified ideas through usability testing, surveys, or focus groups.
+
+![image](https://github.com/user-attachments/assets/408eb924-c9d4-4fd4-893b-a9c5792ce4ec)
+
 
 **3. Ishikawa Diagram (Fishbone Diagram)**
 
@@ -478,6 +483,8 @@ Here's how an idea can be tested using an Empathy Map, SCAMPER, and an Ishikawa 
     *   **Brainstorm causes:** Identify and list potential causes within each category.
     *   **Analyze causes:** Prioritize the most likely root causes and investigate them further.
     *   **Develop solutions:** Based on the identified root causes, brainstorm and implement solutions to address the problem.
+
+ ![image](https://github.com/user-attachments/assets/587ba645-60f0-4d22-b2c5-c4a83bb1d853)
 
 **In Summary**
 
