@@ -1,6 +1,6 @@
 # Module 8 Important Questions
 
-**1. Compare and contrast the Macro and Micro Models of Communication, explaining their key components and implications for marketing campaigns.**
+### 1. Compare and contrast the Macro and Micro Models of Communication, explaining their key components and implications for marketing campaigns.
 
 * **Macro Model:**
     * Focuses on the overall communication process between the **sender** (marketer) and the **receiver** (consumer).
@@ -21,7 +21,9 @@
     * **Models like AIDA (Attention, Interest, Desire, Action) and the Hierarchy of Effects** provide frameworks for understanding this process.
     * **Marketing Implications:** Helps marketers tailor their campaigns to match the consumer's likely response sequence (e.g., Learn-Feel-Do for high-involvement products).
 
-**2. How do marketers effectively utilize the AIDA model (Attention, Interest, Desire, Action) to design integrated marketing campaigns that drive consumer behavior?**
+---
+
+### 2. How do marketers effectively utilize the AIDA model (Attention, Interest, Desire, Action) to design integrated marketing campaigns that drive consumer behavior?
 
 * **AIDA** provides a structured approach to guide the campaign:
     * **Attention:** Grab attention through creative visuals, compelling headlines, or unexpected elements.
@@ -33,7 +35,9 @@
     * **Social Media Campaign:** Start with eye-catching visuals (Attention), share engaging stories and user-generated content (Interest), highlight the product's unique benefits (Desire), and include clear calls to action (Action).
     * **Email Marketing:** Use personalized subject lines (Attention), provide valuable content (Interest), showcase customer testimonials (Desire), and include a strong call to action (Action).
 
-**3. What are the key factors that influence the selection of the optimal promotion mix (advertising, sales promotion, public relations, direct marketing, personal selling, social media) for a new product launch?**
+---
+
+### 3. What are the key factors that influence the selection of the optimal promotion mix (advertising, sales promotion, public relations, direct marketing, personal selling, social media) for a new product launch?
 
 * **Target Audience:** Who are you trying to reach? Demographics, psychographics, and media consumption habits are crucial.
 * **Product Characteristics:** Is it a high-involvement or low-involvement product? Is it new and innovative, or an extension of an existing line?
@@ -43,7 +47,9 @@
 * **Competitive Landscape:** What are competitors doing? How can you differentiate your approach?
 * **Market Trends:** Are there emerging trends or channels that should be considered? (e.g., the rise of influencer marketing)
 
-**4. What are the ethical considerations that salespeople should keep in mind throughout the sales process, particularly in B2B and luxury markets?**
+---
+
+### 4. What are the ethical considerations that salespeople should keep in mind throughout the sales process, particularly in B2B and luxury markets?
 
 * **Transparency and Honesty:** Be upfront about product features, limitations, and pricing. Avoid misleading or deceptive tactics.
 * **Respect for Customer Autonomy:** Avoid pressuring or manipulating customers. Allow them to make informed decisions without undue influence.
@@ -52,7 +58,9 @@
 * **Building Trust:** Prioritize long-term relationships over short-term gains. 
 * **Ethical Selling in Luxury Markets:** Emphasize the value and experience rather than focusing solely on the price tag. Avoid creating a sense of exclusivity that could be perceived as elitist.
 
-**5. What are the challenges associated with managing a sales force, including motivation, retention, and the choice between direct and contractual sales forces, and how can these challenges be effectively addressed?**
+---
+
+### 5. What are the challenges associated with managing a sales force, including motivation, retention, and the choice between direct and contractual sales forces, and how can these challenges be effectively addressed?
 
 * **Motivation:** 
     * **Challenge:** Maintaining high morale, especially during periods of low sales.
