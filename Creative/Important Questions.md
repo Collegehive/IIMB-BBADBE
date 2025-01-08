@@ -423,7 +423,7 @@ Here’s what it stands for:
    * Sets the context.
    * Provides background information
 
-##Few More Important Concepts to prepare
+# Few More Important Concepts to prepare
 
 ## Q1-Zone of Concern vs. Zone of Influence
 
