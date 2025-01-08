@@ -1,8 +1,6 @@
 # Module 6 Important Questions
 
----
-
-### 1. **How can businesses effectively leverage product planning concepts (product levels, product mix, product life cycle) to develop and manage a successful product portfolio?**
+### 1. How can businesses effectively leverage product planning concepts (product levels, product mix, product life cycle) to develop and manage a successful product portfolio?**
 
 Businesses can leverage product planning concepts to manage a successful product portfolio by carefully considering the following:
 
