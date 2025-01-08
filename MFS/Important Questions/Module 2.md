@@ -1,6 +1,6 @@
 # Module 2 Important Questions
 
-**1. What are the key criteria for selecting a target market segment, and how do these criteria guide the development of effective marketing strategies?**
+### 1. What are the key criteria for selecting a target market segment, and how do these criteria guide the development of effective marketing strategies?
 
 The key criteria for selecting a target market segment include:
 
@@ -14,7 +14,7 @@ These criteria help guide the development of effective marketing strategies by f
 
 ---
 
-**2. How does market segmentation enable businesses to tailor their marketing mix (product, price, place, promotion) to better meet the specific needs and preferences of different customer groups?**
+### 2. How does market segmentation enable businesses to tailor their marketing mix (product, price, place, promotion) to better meet the specific needs and preferences of different customer groups?
 
 Market segmentation allows businesses to break down a broad market into smaller, distinct groups of consumers who share similar needs, preferences, or characteristics. This enables businesses to:
 
@@ -30,7 +30,7 @@ By tailoring the marketing mix for different segments, businesses can better sat
 
 ---
 
-**3. Compare and contrast differentiated marketing and undifferentiated marketing strategies. When is each approach most suitable, and what are the potential advantages and disadvantages of each?**
+### 3. Compare and contrast differentiated marketing and undifferentiated marketing strategies. When is each approach most suitable, and what are the potential advantages and disadvantages of each?
 
 - **Differentiated Marketing:** Involves offering different products or marketing mixes for different segments. For example, a cosmetics brand may offer separate products for teens, adults, and seniors. 
     - **Advantages:** More tailored to the needs of each segment, resulting in higher relevance, customer satisfaction, and engagement.
@@ -46,7 +46,7 @@ By tailoring the marketing mix for different segments, businesses can better sat
 
 ---
 
-**4. How does niche marketing differ from both differentiated and undifferentiated marketing? Discuss the key characteristics of niche marketing and its potential benefits and challenges.**
+### 4. How does niche marketing differ from both differentiated and undifferentiated marketing? Discuss the key characteristics of niche marketing and its potential benefits and challenges.
 
 Niche marketing involves focusing on a very specific segment of the market with specialized products or services that cater to the unique needs of that group. Unlike differentiated marketing, which targets multiple segments, niche marketing focuses on just one segment.
 
@@ -67,7 +67,7 @@ Niche marketing is most suitable for businesses that have the expertise to cater
 
 ---
 
-**5. How can organizations effectively evaluate and select the most suitable target market segment? Discuss key factors such as segment size, growth potential, competitive intensity, and organizational resources.**
+### 5. How can organizations effectively evaluate and select the most suitable target market segment? Discuss key factors such as segment size, growth potential, competitive intensity, and organizational resources.
 
 Organizations can evaluate and select the most suitable target market segment by considering the following factors:
 
@@ -78,5 +78,3 @@ Organizations can evaluate and select the most suitable target market segment by
 - **Organizational Resources:** The organization’s ability to effectively serve a segment is crucial. This involves evaluating the resources available, including manpower, financial capacity, and technology. The segment must align with the organization’s goals and resources for successful targeting.
 
 By scoring and weighing these factors, organizations can prioritize the most attractive segments with the highest potential for success, while ensuring that they have the necessary resources to effectively compete and serve those segments.
-
----
