@@ -1,7 +1,6 @@
 # Module 2 Important Questions
 
-### 1. State the difference between Necessity based Entrepreneurship and opportunity
-based entrepreneurship.
+### 1. State the difference between Necessity based Entrepreneurship and opportunity based entrepreneurship.
 
 | Feature | Necessity-Based<br>Entrepreneurship | Opportunity-Based<br>Entrepreneurship |
 |---|---|---|
